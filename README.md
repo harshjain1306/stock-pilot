@@ -4,6 +4,16 @@ A full-stack inventory and order management system with a **React + Vite** front
 
 ---
 
+## Live Deployment
+
+| | Link |
+|---|---|
+| Frontend | https://inv-sand.vercel.app/ |
+| Backend API | https://inv-backend-ccy7.onrender.com |
+| Docker Image | https://hub.docker.com/r/heria021/inv-backend |
+
+---
+
 ## Repository Structure
 
 ```
